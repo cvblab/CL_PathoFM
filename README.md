@@ -4,7 +4,7 @@
 This repository contains the code required to replicate the experiments described in the article ‘When Does Curriculum Learning Help Downstream Classification with Pathology Foundation Models? Evidence from Three Multi-Annotated Cohorts’
 
 
-## 1. Expected directory layout
+## 1. Expected directory
 
 To regenerate Table I, Table II, Table III, Table IV, and Figure 2 from the manuscript, starting from
 precomputed foundation-model embeddings, set up your project like this:
